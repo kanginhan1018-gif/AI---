@@ -2,7 +2,7 @@
 
 ## 먼저 읽을 파일
 
-- [제출 본문 PDF](outputs/reports/망젤이네_분석보고서.pdf): 본문 5쪽 + 참고문헌 1쪽
+- [제출 본문 PDF](outputs/appendix/final_report.pdf): 본문 5쪽 + 참고문헌 1쪽
 - [분석 부록 PDF](appendix/research_appendix.pdf): A1~A14, 근거·검증·가정·재현 안내 15쪽
 - [일반 이용형 공동승차 검증 4쪽](outputs/reports/DRT.pdf): 추가 가설 검증, 제출 본문과 별도
 - [부록 파일별 안내](appendix/README.md): 원본 표와 코드로 이동
