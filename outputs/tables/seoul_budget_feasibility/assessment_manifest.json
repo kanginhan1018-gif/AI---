@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "budget_status": "82954m KRW calltaxi and 32172m KRW voucher are submitted 2026 budget amounts, not verified final or available balances",
+  "actual_operating_plan": "2026 February workplan published for March 6 council committee: short-time drivers 150 to 175 and peak-hour placement; execution not independently confirmed",
+  "sources": [
+    {
+      "path": "data/raw/drt_cost_evidence/seoul_2026_transport_budget_proposal.pdf",
+      "sha256": "6d2a41a099895a78becf668c4382802069ab739057624ca68017859190ecc741"
+    },
+    {
+      "path": "data/raw/drt_cost_evidence/seoul_2026_february_transport_workplan.pdf",
+      "sha256": "53e7fef97b007cee1813e5a1eec29a07f928ab115933c83958198e5c1a8fb202"
+    }
+  ],
+  "six_month_rule": "Linear half-year recurring cost ONLY if staffing and contracts can be time limited; purchase and setup not halved",
+  "unknown": [
+    "final approved line budget including supplementary changes",
+    "commitments and available year-end balance",
+    "eligible budget item and agency agreement",
+    "vehicle and driver availability",
+    "actual quotes and staffing plan"
+  ],
+  "decision": "Small pilot may be considered for budget allocation or existing-service integration; no funding authorization or proven spare budget; separate purchases not currently recommended"
+}

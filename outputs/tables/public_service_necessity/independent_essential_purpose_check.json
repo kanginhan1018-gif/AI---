@@ -1,0 +1,53 @@
+{
+  "method": "Independent stdlib csv/datetime/statistics pass through raw data; all six district/cohort counts, medians and over-60 counts match; monthly presence matches",
+  "results": [
+    {
+      "district": "동대문구",
+      "cohort": "within_1min",
+      "records": 3857,
+      "median_min": 34.015166666666666,
+      "over_60_records": 829,
+      "months_with_over_60": 12
+    },
+    {
+      "district": "성동구",
+      "cohort": "within_1min",
+      "records": 1774,
+      "median_min": 35.006249999999994,
+      "over_60_records": 364,
+      "months_with_over_60": 12
+    },
+    {
+      "district": "중구",
+      "cohort": "within_1min",
+      "records": 1052,
+      "median_min": 35.49366666666667,
+      "over_60_records": 181,
+      "months_with_over_60": 12
+    },
+    {
+      "district": "동대문구",
+      "cohort": "exact_equal",
+      "records": 29,
+      "median_min": 35.252050000000004,
+      "over_60_records": 10,
+      "months_with_over_60": 6
+    },
+    {
+      "district": "성동구",
+      "cohort": "exact_equal",
+      "records": 16,
+      "median_min": 21.330716666666667,
+      "over_60_records": 2,
+      "months_with_over_60": 2
+    },
+    {
+      "district": "중구",
+      "cohort": "exact_equal",
+      "records": 9,
+      "median_min": 28.280616666666667,
+      "over_60_records": 2,
+      "months_with_over_60": 2
+    }
+  ]
+}

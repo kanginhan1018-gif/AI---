@@ -1,0 +1,5 @@
+{
+  "method": "stdlib csv and datetime.fromisoformat direct raw-file scan independent of pandas upstream",
+  "rows_checked": 16,
+  "all_match": true
+}

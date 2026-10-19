@@ -1,0 +1,24 @@
+{
+  "observed": {
+    "source": "2025 calltaxi CSV; reuse notebook 10 chronology rules",
+    "medical_completed_records": 9472,
+    "job_minutes": "dispatch-to-board + board-to-alight; independent record service assumption"
+  },
+  "not_observed": [
+    "vehicle IDs",
+    "driver shifts",
+    "fleet availability",
+    "post-dropoff support and recovery time",
+    "all failed requests and causes",
+    "wheelchair occupancy",
+    "procurement quotes",
+    "supplemental service effects"
+  ],
+  "load_screen": "P95 arrival-hour assigned workload / 60 / assumed utilization, rounded up; not simultaneous fleet need, not additional vehicles, not 95% on-time guarantee",
+  "supplemental_scope": "1/2/3 simultaneously staffed slots, 5 hours daily, 365 days; illustrative addition to existing service, not full replacement",
+  "staffing": "ceil(covered vehicle-hours / assumed 1500 annual coverage hours per staff); hour-balance screen only, not feasible shift roster",
+  "money": "Low/central/high planning assumptions; NO verified quote. Staff annual full cost 50/60/70m KRW; purchase 70/80/100m; annual running cost per slot 10/15/20m; shared dispatch 10m/y; setup 20m",
+  "cost_scope": "Gross scenario resource budgets, not verified incremental cash costs; existing budget overlaps unadjusted; no fare income, subsidy offsets, depreciation or financing; existing spare scenario requires suitable otherwise available vehicles; no dedicated attendant included",
+  "capacity": "Handling equivalents, not additional riders or long waits avoided; medical label selection and supplied completed records only",
+  "official_context": "https://mas.smc.seoul.kr/record/recordView.do?key=ac1d3b413cc627a01443d74b91d80acd66506869a7a8f887a511aeaf486cccf60eb951b4ecbefcb7"
+}
