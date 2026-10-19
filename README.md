@@ -4,7 +4,7 @@
 
 - [제출 본문 PDF](outputs/reports/망젤이네_분석보고서.pdf): 본문 5쪽 + 참고문헌 1쪽
 - [분석 부록 PDF](appendix/research_appendix.pdf): A1~A14, 근거·검증·가정·재현 안내 15쪽
-- [일반 이용형 공동승차 검증 4쪽](outputs/reports/망젤이네_일반이용형_DRT_검증.pdf): 추가 가설 검증, 제출 본문과 별도
+- [일반 이용형 공동승차 검증 4쪽](outputs/reports/DRT.pdf): 추가 가설 검증, 제출 본문과 별도
 - [부록 파일별 안내](appendix/README.md): 원본 표와 코드로 이동
 - [파일별 근거 인덱스](appendix/evidence_index.csv): 자료 성격·실행 코드·SHA-256
 
