@@ -1,0 +1,15 @@
+{
+  "boundary": "historical practice-guide operational energy conversion; excludes fuel supply and vehicle manufacturing; not a verified current fleet inventory",
+  "factors": {
+    "gasoline": {
+      "unit": "L",
+      "kg_co2eq_per_unit": 2.18,
+      "source": "https://me.go.kr/home/file/readDownloadFile2.do?fileId=286624&fileName=9b21fa71bd0607a9fb18f2223238c25270c07f988a98c05a1a9b6b78a411fc1c&fileSeq=1&openYn=Y (PDF page 45; historical illustrative coefficient)"
+    },
+    "diesel": {
+      "unit": "L",
+      "kg_co2eq_per_unit": 2.6,
+      "source": "https://me.go.kr/home/file/readDownloadFile2.do?fileId=286624&fileName=9b21fa71bd0607a9fb18f2223238c25270c07f988a98c05a1a9b6b78a411fc1c&fileSeq=1&openYn=Y (PDF page 45; historical illustrative coefficient)"
+    }
+  }
+}

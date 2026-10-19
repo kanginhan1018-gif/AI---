@@ -1,0 +1,9 @@
+{
+  "implementation": "separate stdlib CSV datetime read",
+  "assumed_shortening_minutes": 10,
+  "before_over60": 1374,
+  "after_over60_conditional": 986,
+  "conditional_threshold_crossings": 388,
+  "target_after_over60_conditional": 757,
+  "causal_effect_verified": false
+}

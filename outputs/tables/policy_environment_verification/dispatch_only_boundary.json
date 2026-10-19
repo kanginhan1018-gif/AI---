@@ -1,0 +1,6 @@
+{
+  "target_over60_records": 1145,
+  "target_records_with_pickup_alone_over60": 0,
+  "maximum_over60_records_fixable_by_zero_queue_mathematical_bound": 1145,
+  "interpretation": "Zero queue is not an operationally feasible plan or a forecast"
+}

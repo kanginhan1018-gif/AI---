@@ -1,0 +1,11 @@
+{
+  "2024_minutes": 40.8,
+  "2025_minutes": 33.8,
+  "difference_minutes": -7.0,
+  "relative_decrease_pct": 17.15686274509804,
+  "source_pdf": "data/raw/drt_cost_evidence/seoul_2026_february_transport_workplan.pdf",
+  "source_sha256": "53e7fef97b007cee1813e5a1eec29a07f928ab115933c83958198e5c1a8fb202",
+  "pdf_page": 8,
+  "policy_attribution_verified": false,
+  "metric_comparability_to_our_cohort_verified": false
+}

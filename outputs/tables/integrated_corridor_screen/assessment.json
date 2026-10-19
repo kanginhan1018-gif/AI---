@@ -1,0 +1,41 @@
+{
+  "all_directed_morning_OD_pairs": 19502,
+  "total_morning_flow_NOT_DRT_DEMAND": 243065.70803571425,
+  "unmatched_origin_coordinate_OD_pairs": 843,
+  "unmatched_destination_coordinate_OD_pairs": 92,
+  "top10_common_sampled_route_present": 2,
+  "nearest_ge15_origin_names": [
+    "서울특별시 중구 명동",
+    "서울특별시 중구 약수동",
+    "서울특별시 성동구 마장동",
+    "서울특별시 성동구 사근동",
+    "서울특별시 성동구 송정동"
+  ],
+  "nearby500_ge15_origin_names": [
+    "서울특별시 중구 명동",
+    "서울특별시 중구 약수동",
+    "서울특별시 성동구 마장동",
+    "서울특별시 성동구 사근동"
+  ],
+  "shortlisted_unique_pairs": 18,
+  "coverage": {
+    "official_seoul_dongs": 427,
+    "centroid_exact_name_matches": 425,
+    "unmatched_names": [
+      "서울특별시 동대문구 신설동",
+      "서울특별시 동대문구 용두동"
+    ],
+    "sampled_headway_stops": 426,
+    "sampled_stops_with_coordinates": 426
+  },
+  "scope": "84-day telecom aggregates; 56 regular weekdays, 07-09 departures to other Seoul dongs; only three origin districts. Daily repetition is ALL DAY, not daily morning validation.",
+  "limits": [
+    "Label matches do not verify historical boundaries",
+    "Centroid straight-line access is not residential walking or accessible path",
+    "Headways are stored route terms, not time-specific actual intervals; sampled nearest stops do not cover all nearby routes",
+    "Shared route ID does not prove direction, stop sequence or door-to-door feasibility; no overlap does not prove no public transport",
+    "No metro routes or wheelchair boarding suitability, mode shift, willingness or actual car reduction observed",
+    "All periods previously explored; screens are descriptive, not independent model validation"
+  ],
+  "decision": "Use these as alternative-comparison candidates, not confirmed gaps or selected DRT routes"
+}

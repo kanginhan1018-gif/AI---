@@ -1,0 +1,24 @@
+{
+  "policy_causal_effect_verified": false,
+  "official_citywide_change_verified": true,
+  "conditional_policy_sensitivity_computed": true,
+  "environmental_causal_reduction_verified": false,
+  "positive_environmental_result_robust_across_three_illustrations": false,
+  "actual_policy_effect_minutes": null,
+  "actual_carbon_reduction_tonnes": null,
+  "missing_for_policy_effect": [
+    "actual intervention dates and exposure",
+    "post-intervention comparable records",
+    "valid comparison group",
+    "support requirements and full requests incl unserved"
+  ],
+  "missing_for_environment": [
+    "actual total/deadhead distance and energy by comparison scope",
+    "verified substitution or complete prior-service baseline",
+    "consistent verified emissions factors",
+    "post-intervention service equivalence"
+  ],
+  "source_year": 2025,
+  "workplan_year": 2026,
+  "decision": "Reported citywide change confirmed; our proposed policy effect and net carbon benefit are not identified. Conditional arithmetic is supplementary evidence only."
+}

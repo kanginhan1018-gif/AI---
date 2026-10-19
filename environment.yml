@@ -1,0 +1,19 @@
+name: mobility-gap
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pandas
+  - numpy
+  - scikit-learn
+  - geopandas
+  - folium
+  - rasterio
+  - requests
+  - pytest
+  - jupytext
+  - pip
+  - pip:
+      # mobility_gap 패키지를 editable 설치한다. 이 줄이 없으면 환경을 만들어도
+      # `import mobility_gap`이 실패한다 (노트북/테스트가 전부 이 패키지를 쓴다).
+      - -e .

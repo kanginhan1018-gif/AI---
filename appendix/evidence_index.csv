@@ -1,0 +1,175 @@
+﻿section,evidence_status,repository_path,analysis_code,bytes,sha256
+A2 원자료 선별,관측 집계,outputs/tables/public_service_necessity/purpose_burden_annual.csv,10·12·15,10546,8c5455b6c09c66fc9b40e417fb75f04ed0cceb8ce8c6a35d30bd65f4078a166a
+A2 원자료 선별,관측 집계,outputs/tables/public_service_necessity/purpose_burden_monthly.csv,10·12·15,32614,a7bfc3de7d7b47b5d2b8f5592e2611750eda8eb455fa828df1d3b4bae0ee9b64
+A2 원자료 선별,관측 집계,outputs/tables/public_service_necessity/purpose_label_audit.csv,10·12·15,23585,77649621ae5cec96524877dc2b7006ba0ab069c6ad2e55b44079ad5d8f41dce1
+A2 원자료 선별,관측 집계,outputs/tables/public_service_necessity/analysis_manifest.json,10·12·15,1138,ab08c1ca07921e7295aaf1c48926b9cb1da0e93d6acfb2656900d99e7603b235
+A2 원자료 선별,관측 집계,outputs/tables/seoul_drt_policy/treatment_timeband_burden.csv,10·12·15,1524,dfac9a112aa2937e4fdce899b2b5b89be90acdc237618a3a66b186d7f491cdf5
+A3 추가 검증,조건별 기술 비교,outputs/tables/treatment_robustness/sensitivity_checks.csv,22,2305,ffda9b03d83ac3b42e199b232cfe325d403edae21ecfe27af89bac9bc567c4a9
+A3 추가 검증,조건별 기술 비교,outputs/tables/treatment_robustness/independent_weekpart_check.json,22,465,f198f7cecc343c2619d2a5e96c05f1bc9ca31cb3ee635fe7d499df809be2b058
+A3 추가 검증,조건별 기술 비교,outputs/tables/treatment_robustness/scope.json,22,403,ac91b4ff9d6c2a7d77e8c886210341afb4ac9e86c15ac4b3c844986844916b3e
+A4 비용,미검증 계획 가정·과거 비교값,outputs/tables/vehicle_budget_screen/assumptions.json,13·16,1759,20dc44cfa8037e6db090826db5ab8d310d11f20bcad754917b60c5789d065fdf
+A4 비용,미검증 계획 가정·과거 비교값,outputs/tables/vehicle_budget_screen/budget_scenarios.csv,13·16,2418,e3c4571a8948ed0dfd7f465c9bc70cb4def17b908f324db1ba3430f662e91956
+A4 비용,미검증 계획 가정·과거 비교값,outputs/tables/vehicle_budget_screen/supplemental_service_capacity_scenarios.csv,13·16,1539,78a55854c4d9ff5f7128eb5a7e5fa08bbdf13e7234d8ab9b648e3b75ff14523f
+A4 비용,미검증 계획 가정·과거 비교값,outputs/tables/seoul_cost_verification/central_case.csv,13·16,1224,14d88577e24c11f8958285c75990b053b33b36cd95da620c5ed6cca48445bdce
+A4 비용,미검증 계획 가정·과거 비교값,outputs/tables/seoul_cost_verification/scenario_grid.csv,13·16,15439,c184e52ea802f507b8dc95fd135a1e932df13a013c85467f7ceaa2cd34c240ec
+A4 비용,미검증 계획 가정·과거 비교값,outputs/tables/seoul_cost_verification/verification_manifest.json,13·16,2129,4d805af3b717f6f4e51fe537ce3fd5e8b63e85b988959d6125243cedffecfa8e
+A4 비용,미검증 계획 가정·과거 비교값,data/raw/drt_cost_evidence/seoul_2025_budget_review.pdf,13·16,1746803,480ca88738b151fb5e10fb2c9d72a65f4d79996b213bd2d585f4c4142c56c262
+A4 비용,미검증 계획 가정·과거 비교값,data/raw/drt_cost_evidence/seoul_bus_2024_settlement.pdf,13·16,444790,da2968527775c2c1a9d727ff361dfa575bbb350043af182ce9919b30f20f1603
+A5 예산·정책 검증,제출 예산안·공식 전체 평균·조건부 계산,outputs/tables/policy_environment_verification/official_citywide_outcomes.csv,24·공식 문서,348,74571791e3b1bfc1c248e0c0a9d5cf6fbaffe0cc53a8c9515db9c34e0879732d
+A5 예산·정책 검증,제출 예산안·공식 전체 평균·조건부 계산,outputs/tables/policy_environment_verification/official_outcome_scope.json,24·공식 문서,415,0736f74f20cd129935befcebf5a70979be0c9c52ac7721a5bbd8a8ef01c2dc4b
+A5 예산·정책 검증,제출 예산안·공식 전체 평균·조건부 계산,outputs/tables/policy_environment_verification/dispatch_shortening_CONDITIONAL.csv,24·공식 문서,1484,596f9626f854104088fe5264b90d2d2ae8acbe407b73697e34367458de0b6c3c
+A5 예산·정책 검증,제출 예산안·공식 전체 평균·조건부 계산,outputs/tables/policy_environment_verification/dispatch_only_boundary.json,24·공식 문서,244,d6a560250a67b196127d98e42fc5e99433b4d075b4c1721b266a29f60fd2f851
+A5 예산·정책 검증,제출 예산안·공식 전체 평균·조건부 계산,outputs/tables/policy_environment_verification/independent_10min_check.json,24·공식 문서,274,d40d7684dceefd6d0bb98ca8aed0a439e15de73b229956288586e1497536369c
+A5 예산·정책 검증,제출 예산안·공식 전체 평균·조건부 계산,outputs/tables/policy_environment_verification/verification_status.json,24·공식 문서,1051,5dd24f0d5bfdc62d522d6f33fe8bc80728a355b57eb09756f3a45dd90ab4aea6
+A5 예산·정책 검증,제출 예산안·공식 전체 평균·조건부 계산,outputs/tables/seoul_budget_feasibility/budget_scale_scenarios.csv,24·공식 문서,1597,1380bd9e68f6fef117d77bd29b74d9af9f3d909f38b60a5e326136b0e80a2ef4
+A5 예산·정책 검증,제출 예산안·공식 전체 평균·조건부 계산,outputs/tables/seoul_budget_feasibility/assessment_manifest.json,24·공식 문서,1332,36908a72776a30378be1c67729737e7e4738295d33ca411d11c6d65ce356662f
+A5 예산·정책 검증,제출 예산안·공식 전체 평균·조건부 계산,data/raw/drt_cost_evidence/seoul_2026_transport_budget_proposal.pdf,24·공식 문서,1478796,6d2a41a099895a78becf668c4382802069ab739057624ca68017859190ecc741
+A5 예산·정책 검증,제출 예산안·공식 전체 평균·조건부 계산,data/raw/drt_cost_evidence/seoul_2026_february_transport_workplan.pdf,24·공식 문서,1062064,53e7fef97b007cee1813e5a1eec29a07f928ab115933c83958198e5c1a8fb202
+A6 탄소 관측 자료,관측 거리·결측과 해석,outputs/tables/carbon_audit/distance_audit.csv,19,1693,9c463585fa5898c43d8fdc159e0c69031b00f15a436d5aed6ccbdea674096a4f
+A6 탄소 관측 자료,관측 거리·결측과 해석,outputs/tables/carbon_audit/monthly_recorded_distance.csv,19,348,28cec2104f6f9762af804eec7cd2db40f2bebbd41fc162e2d6148b48a0912f40
+A6 탄소 관측 자료,관측 거리·결측과 해석,outputs/tables/carbon_audit/field_availability.csv,19,155,e9c2f2ad2e9b079c2c5e20557c66c41a523c48593172226d09a41ca39d17edfd
+A6 탄소 관측 자료,관측 거리·결측과 해석,outputs/tables/carbon_audit/independent_distance_check.json,19,229,53c1c524407fd41b406fb586e0e9bfe37581d3adaab415d4931a576b7998aa6a
+A6 탄소 관측 자료,관측 거리·결측과 해석,outputs/tables/carbon_audit/carbon_identification_audit.json,19,1468,c43980b93be100fdb632cc5dc133cc24161695a0e41a0f0732744052f66c2eb7
+A7 탄소 보조 시나리오,가정 계산·실측 아님,outputs/tables/carbon_audit/assumption_evidence_register.csv,20·21,1979,aba2cf24cb62a318b76580f5fcb4971f9ceac0d58ee70be318f477beaba0d19f
+A7 탄소 보조 시나리오,가정 계산·실측 아님,outputs/tables/carbon_audit/conditional_car_substitution_projection_NOT_EMPIRICAL.csv,20·21,1311,89717a4d455503a5a18d30d40d8a6ce894473ede03e35fdbc2e6680299fa749b
+A7 탄소 보조 시나리오,가정 계산·실측 아님,outputs/tables/carbon_audit/private_car_substitution_break_even_ASSUMPTIONS.csv,20·21,13241,d35a26556e52b71f7127133bd1766303b1179024d9198ea0bfd83ae063ef168d
+A7 탄소 보조 시나리오,가정 계산·실측 아님,examples/carbon/README.md,20·21,4912,e1ea0bfdcb9cac345c922fef8fe73d9a0bb3dcdffd8b32bfe87d7d026ab2b361
+A7 탄소 보조 시나리오,가정 계산·실측 아님,examples/carbon/scenario_inputs.csv,20·21,1163,d8b414cd6d35a62791c69fb17836c71474ce5a1ba345969528b2d02ad5f5a78e
+A7 탄소 보조 시나리오,가정 계산·실측 아님,examples/carbon/operational_measurement_template.csv,20·21,367,a236e563f6d25d388da6d57a70ef1ee2711cf831b4c2c0a37ad1e4368ea5292f
+A7 탄소 보조 시나리오,가정 계산·실측 아님,examples/carbon/illustrative_factors.json,20·21,781,3b1e12e5e4b982fbea9930c510fa9cec6ea285c7070cc6512e90dd229a55793b
+A7 탄소 보조 시나리오,가정 계산·실측 아님,outputs/tables/carbon_measurement_demo/carbon_measurements.json,20·21,6782,9c38e7feac1e7e37a63bc5acfcbdbacb2d522f77433808ce56f943b0727d991b
+A9 서울 비교와 위험 모형,관측 비교·후향적 예측 검증,notebooks/25_citywide_predictive_validation.py,25,7290,c86e8e337a69ae4786ba31fb31b39185de7b8b3f1d64d4b31b7b487d90661258
+A9 서울 비교와 위험 모형,관측 비교·후향적 예측 검증,outputs/tables/citywide_predictive_validation/citywide_same_cohort.csv,25,1522,331870e3d9e7fa92c54d7da1d618dc3ca6fee3ddb600650da08c5fcf70447b9b
+A9 서울 비교와 위험 모형,관측 비교·후향적 예측 검증,outputs/tables/citywide_predictive_validation/retrospective_temporal_metrics.csv,25,494,521b1cca584601ce2aad42461bdcd73df8020d8fa1e1555c38022fb2771fdf12
+A9 서울 비교와 위험 모형,관측 비교·후향적 예측 검증,outputs/tables/citywide_predictive_validation/logistic_calibration.csv,25,326,ec33ba0c2568a6100a2c7bae251a6b325ce3586c7a9ec5e11603d77147492976
+A9 서울 비교와 위험 모형,관측 비교·후향적 예측 검증,outputs/tables/citywide_predictive_validation/subgroup_metrics.csv,25,1016,3f02f9cdb6fb93a86556e8e111520773c2c0ca70e2da9115176397d0bf2fe12d
+A9 서울 비교와 위험 모형,관측 비교·후향적 예측 검증,outputs/tables/citywide_predictive_validation/validation_scope.json,25,955,528e15b2d49b6f374f98177956dc62d325b54306b734202a4dca6393570ad4ac
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,notebooks/30_transit_corridor_overlay.py,30·31,11069,aef86b4d08959460f5a009236e24c4454b34aec021358846a3ab742b2c8de0f4
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,notebooks/31_build_transit_corridor_report.py,30·31,15357,6d59d93e778117a35622acab4be57c6f1f695d57e0ab7ffcce6d1fa439a8c3c5
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,docs/2026-10-19-transit-corridor-overlay.md,30·31,8761,fe8b6cddb5e4d81613f3deecf0c8807b9fc3d3b369386968fe20a855d886e89c
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/reports/망젤이네_서울_OD_버스연결_검토.pdf,30·31,117595,62a76c592ebf0b110aeb5c039249f2dfd5b1c5364542d2d8153f3df091eef969
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/tables/open_pooling_verification/pilot_morning_OD_INPUT.csv,30·31,3368429,c6d56869bd995e09c9af98a847a3ffbcf15a2ee6fcb1a647824d38dc562da4f3
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/tables/open_pooling_verification/pilot_morning_OD_bus_overlay.csv,30·31,11394270,890f86798352e392fc0f8b54f0fe7bedaeceb6b853888da7d0b9278bf6529aa7
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/tables/open_pooling_verification/pilot_candidate_OD_no_shared_representative_route.csv,30·31,22974,553d9d8edb226b30337af5b01ec36c02e205db1f1c0399bddda58ce9e5d5214b
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/tables/open_pooling_verification/pilot_OD_bus_connectivity_screen_summary.csv,30·31,287,9fb3f2fb4c79bbab3b72ea14f0202bacf2565af4f45743693180cda90a350ce8
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/tables/open_pooling_verification/pilot_OD_bus_distance_screen.csv,30·31,570,2554889738397c96d84ed6aebb29502b8e8cddc3dbbd26492fb799b0389192ce
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/tables/open_pooling_verification/pilot_dong_representative_bus_supply.csv,30·31,12047,ccb67ffc81eb9acccb5726d2b6af44679c342c9cf76b8e27866bd55af1cc57bf
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/tables/open_pooling_verification/transit_overlay_scope.json,30·31,1851,7e724ea1f758eb40770ba28b5a961aa5cf01d3b04a2b947568e8266a708bfe88
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/tables/telecom_12weeks/official_pilot_codes.csv,30·31,4315,36e24691963a93d33c80425ce67d3fd055602d3106fe9688bd8a3277df9e03b2
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/tables/telecom_12weeks/source_manifest.json,30·31,24216,606439574df557ec7f3c55eced5061211e2339d085d0723bd0405c1579f10c43
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,outputs/tables/telecom_12weeks/project_code_crosswalk_review.csv,30·31,9883,c64b6085014c3bd551a1c3a0fd9919ed515d2791c4b82e49d5dd6661e0b04dfe
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/telecom/admdong_codes.zip,30·31,2047792,69e8c5dad71dffbc6d0d9be8f9ad607e3d02e72a2577cbaf1b9ba795518226e4
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11010.csv,30·31,2395,9ff8c337d3d743b9fd6796e01b71d9a58954018176c7e295a4cdb6fb23ceecd2
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11010.csv,30·31,1032,af7c8af730d1f0c55d018b95ad418ecb45cd2516f0c2d068992d4f9004c084ef
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11010.csv,30·31,1107,14c03d45aa0b7b9617676a5b637876b799f8a28759566c74dfdf56d6c6e4891d
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11020.csv,30·31,1624,35b38dcf810a8b95cb618a948f26437dbb55644cb65a433ddb7b6601950e4eb0
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11020.csv,30·31,886,b54fd50e7f3ba036a7bf1a2a473df6063b912f99db58ca26827c015b7320f5a9
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11020.csv,30·31,988,6779ba52c50d6c92f5c5b803f3d2a4b5b06d996b198bad610149824daea47bc9
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11030.csv,30·31,1574,8ae898aabbbc966358fe98f4470ae85baa7ed8af25f7c483bc39d142a0754db3
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11030.csv,30·31,974,4cedb30cd9e6f15c18f5d621d978ac3a71e305eb29b240b2c2d84375c5b0e5c3
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11030.csv,30·31,1047,b23d01732313923a5418f5495b883831e74f409fe2768cf8f78b873880a7c5bb
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11040.csv,30·31,1063,fce57a3692db58633092c83a6a3052df04a23baf6a513e90a0c9e8158bc875e8
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11040.csv,30·31,1053,92b3105f427fa21b0f4f2d6b888c71603f70fd387615bd2b4d9b2844792744ce
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11040.csv,30·31,1094,f89d8c0ffd6ebc55d08dfda52227d7ed6f4436d9c2ea35ee70a09977d21517f1
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11050.csv,30·31,1482,e443b5b69e4b5cfd9ce2b75b4fc43af9f192e733465447a6987abbb2b639cca3
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11050.csv,30·31,889,4b6fcc004f72c67f129f04d380db405e68bd29fe35bc4d55fbbf29c09ad57941
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11050.csv,30·31,989,1f8976ed970670caa822ed934a74d0dd16f002f34de69463b728c6b4b6f3f475
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11060.csv,30·31,1131,50221673bbe7b244ae26b0766e32a81b9b7b5f9c2353669e40739b8f277c2cd1
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11060.csv,30·31,842,b68e0f6112679adccc74b8bb83e63b15204b0546f595a8285b1ef3fe6f27e2df
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11060.csv,30·31,926,8d62da3a9de364d984e024bf63821047bb549641f63a8f48ccfd26073d519566
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11070.csv,30·31,1989,e7594aed13296414b12625ae9b4ededdef374f71e377643c3ca1c9a1b6912e99
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11070.csv,30·31,959,c127e74cedc999a7d03682b05c60f4d4355451e78e9a85faa78c2383041e3c21
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11070.csv,30·31,1046,75f275573b2b0c23b12fabf4faab821c8131507fc84b1a6b2e9a7c25a0d05a48
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11080.csv,30·31,2709,ebb8a096eb075cc0e832e49242f9e6f3917d3c6441224fe1ce5a02ea4cc082ec
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11080.csv,30·31,1187,952433b0c6cf4850a886df69724e23e7d4f9b42371334e15c74818f20f2de643
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11080.csv,30·31,1238,5d541298741183c466e3adb36b4bfae00a39a450d684254c810af4af92bffa59
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11090.csv,30·31,769,7ec8f088b2d8ea35441c7362e34abdfecca898c4d3f3cfbaf6911af5d345b344
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11090.csv,30·31,770,068f713d9b612fcab299ef5874094e15a8099ccb5265216d7013ef550c5ad3db
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11090.csv,30·31,866,c4e65eb3b0798e76836352c5e7b890a4d9fd98450b86bf85bb4c80d1c568f18c
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11100.csv,30·31,749,54d756c810136f295fbb8b4fdd9818e2700bd6aee9ec48a6c3456efd54f4b17b
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11100.csv,30·31,825,9ea821034b4ba974a0f429459b136d50677dbd5f288e2f8f1b9b370f404425c7
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11100.csv,30·31,889,05ece1442be4ec9f7b48f328e12cf27c4456ce6ae894328adacb5969b66deba1
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11110.csv,30·31,2044,e482de2fe5cb58924470b0a089e2e058eafa4fbcdb88369a5c8833482e2b1c82
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11110.csv,30·31,1144,443d37c9f65834f43e964acd24011a5d20c10138021df309b162fb25ccf58ce8
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11110.csv,30·31,1263,664ce16a15fafe2ab229b35ca5b47c9076d6d5a2cfe825f7a374f778d75cf1d5
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11120.csv,30·31,2385,d0150b58942bfc4546a34d80f15777247662ff142cbb5c689187a53d44efcb4f
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11120.csv,30·31,952,218d61dd3a1b845fc09901f461ca4a771d007d5ce4072aa619372f252651cbb2
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11120.csv,30·31,1016,35542c4c1e6ca0bd5c09cba04b0299fe5bba2e0e00bc1690f56adacffd91afc9
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11130.csv,30·31,1299,8fcdf36477ff7ca80907695f72d7a33d5486d0bad7f087cda01153e324e78ca2
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11130.csv,30·31,853,c6d37de259b9a5e806cfa3ae9a2c3c60840b05d09732828a8b8d3d8dfd0bec30
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11130.csv,30·31,919,d6b972e49010c53a64f1878e821fd1679d7fd8c3947aed4e71b8c88774dd380a
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11140.csv,30·31,988,35277ea68636a87e6314de78af57860ac3b85747b43cd1f67540cc64da3da095
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11140.csv,30·31,948,65d04abaceb687731026f413c26b0402238b96ce9635a0718fba011251746491
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11140.csv,30·31,1003,2405daa0af7bd07030c8347c8c2d7d64163fbc16bf04b0e7bebd55e84efc2f85
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11150.csv,30·31,1935,085500d6ec21e1527d1b19fe7ca621a2907777ae694bffe29ea7cc482a54f6a1
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11150.csv,30·31,1056,b82004cfda5aa0d3a25991c49ff280b10a6e5f3e170a8288858b447c4409725b
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11150.csv,30·31,1188,f49a88e4493ecc851109dba01b98d043687ff96245cbc834ee2f66e69a0cca22
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11160.csv,30·31,1506,79cf4a9c08ebc60adf3a2c7740441371da4b3960c9f37f37d7d3ccc8369e8515
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11160.csv,30·31,1187,54aebd8d83e2e4d24fb955df5370fd5b42ce0671b21543871048d924ee387b47
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11160.csv,30·31,1296,7c8c6c172e766db5c3f797e42edb01849b1e218b023ea5df2f90fe19d0265d7f
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11170.csv,30·31,1579,46c79ba6dee76e70e8e3b19803bfeedfe918f425acc62110f1e4499552a54c9a
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11170.csv,30·31,958,c8672b6e39b9400825fe5af44122f4e9bc7773ec4d737d7f91f5e594d7399b4c
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11170.csv,30·31,982,8d5f6003121585703f9ce79ef3eaa0a7aa4ec4480cb2f3a011d7e4b724ec7205
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11180.csv,30·31,1134,77b64bf3588445c20914f8e134aee8e02db6024f2a575ac5489a894503229eb7
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11180.csv,30·31,611,7d6700e72133a1e36618cbcd7a78cd27431cd000968c3422d8f123e67e4ef678
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11180.csv,30·31,660,1171085f5717438c95460efaedbfe765e8b1b50ec03e8264f204acb9672ca858
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11190.csv,30·31,1374,6e1db68cedcc9f8bd0562ba8be734bcdfa5d97b9b515c6ccd9ce9b65adceee34
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11190.csv,30·31,1077,bb680d6b7f82c0158e68e7efc65702e722e8013920ba1d48b6228e0b7285e443
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11190.csv,30·31,1134,34fbf1762406c153f6dc9822f87c94aa2f3b75c919119a736a3ef2c87a9be911
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11200.csv,30·31,2005,aa351be5ea3f2f5e0c8f87b618a06b1e4ec22e9c2354cdfacd9388452ac61c67
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11200.csv,30·31,911,1409009d9df762305b4bdd44ed6e58b34344930c9e010d6b145235202d308fea
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11200.csv,30·31,985,9950e8aa11d993fb839992727c2ef09d15590d227540752ca4746f7dd2f85a31
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11210.csv,30·31,2244,e22f4d9eea3b10ecdd71fc46ab6d0763a2ae7430ca8c1af8ad66fa3cf0dc38d1
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11210.csv,30·31,1230,c5f7948cecfb6898b0306f059a7fc1ed1bf7acfc53a6008d7c60d3b9740851ae
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11210.csv,30·31,1349,3f56cf34c7767d5d59ab93a8105b9ac52dcf32b05f47b32de75cdca6befa6f14
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11220.csv,30·31,1809,dd4640b5c56debb556fa571d4af17ba181a82686492487b49ae0ad3db859df11
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11220.csv,30·31,1079,8ccb849bd697ab5d99d9105d67f14371f7222c5fc6410f17e2f0ca7cd5576697
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11220.csv,30·31,1195,0eb8755201a33bfd1d0a98b96226b9de3812f908e8c8ee80defdf35e56d4e66e
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11230.csv,30·31,2841,b4fddffd50cb0ddd600db70e7789bf675118bdf40e52737cb599e1a652c1fdc1
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11230.csv,30·31,1309,c1bebef86bfc798370d1cb3d170beffd34eae0948e6ab142019e69f2e8fe6481
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11230.csv,30·31,1368,f204ab6ce1ef06d8614c7110779f915a3173941be87a61f107f4593fe31c0ad9
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11240.csv,30·31,2296,5c15a154fbc3880d1792183b9f7d3d8df1e3a47cd06fc608bdd9d877c6cc9a8a
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11240.csv,30·31,1593,a801b51eb15f0ac366bf5d8261a510be87348899b33d1ca80ea70c4d6e3b71d3
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11240.csv,30·31,1768,34c94aee931f1566bffba89a39e37e5217b9382e41fbee1e162c057a05aab94f
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/headway_11250.csv,30·31,1849,2a4995a51e33e24ae36fcf3dd5998114de8cf390e87c95871ba7ef930e7eb1ae
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_centroids_11250.csv,30·31,1130,bb586734330679d24284e274b41f9a70f51189e7a154543851224f5f90e4bd61
+A11 OD·버스 노선 연결,통신 통행 평균·대표정류장·노선ID 화면검사,data/raw/dong_walk_input_11250.csv,30·31,1227,cc5e821f17380ee205be37cd8b56c685f02e96be4c37b4b2f39fdcd1999cd54d
+A12 장거리 OD와 실제 버스 노선 순번 검증,정적 버스망의 최소 환승 수 전수 선별,notebooks/34_exhaustive_bus_transfer_screen.py,34·35,16501,f4603f4bb9d01c95eb48d37b4af1a26e8ac2d7d309cf61c52723d89dcc4c7b18
+A12 장거리 OD와 실제 버스 노선 순번 검증,정적 버스망의 최소 환승 수 전수 선별,notebooks/35_minimum_bus_transfers_all_OD.py,34·35,8282,14c119b24d86ae08f24e8772b28b1ca7b28157c84ac28b903a9b7917e08399b4
+A12 장거리 OD와 실제 버스 노선 순번 검증,정적 버스망의 최소 환승 수 전수 선별,outputs/tables/non_drt_policy_comparison/all_15012_OD_bus_0_1_transfer_screen.csv,34·35,6108922,c7bee33ffb42b5832167685360315aaff3e379188e94c8a1babf6d4e46e6f576
+A12 장거리 OD와 실제 버스 노선 순번 검증,정적 버스망의 최소 환승 수 전수 선별,outputs/tables/non_drt_policy_comparison/all_15012_OD_bus_path_class_summary.csv,34·35,439,280951c896944241a2a37f29c9b8e3e21adc0dcb055a70b2369c3886960dd047
+A12 장거리 OD와 실제 버스 노선 순번 검증,정적 버스망의 최소 환승 수 전수 선별,outputs/tables/non_drt_policy_comparison/all_15012_OD_minimum_bus_transfers.csv,34·35,4854599,6be25221202915080c38a58958c046c76169ca80b892a62d3a632161ce18c35c
+A12 장거리 OD와 실제 버스 노선 순번 검증,정적 버스망의 최소 환승 수 전수 선별,outputs/tables/non_drt_policy_comparison/all_15012_OD_minimum_bus_transfers_summary.csv,34·35,549,ba2dcfc30e4f605045cc406f1ebd48fd8c26d13345e1bbda6543a925fd8bb101
+A12 장거리 OD와 실제 버스 노선 순번 검증,정적 버스망의 최소 환승 수 전수 선별,outputs/tables/non_drt_policy_comparison/all_15012_OD_minimum_bus_transfers_scope.json,34·35,945,80cad27e595279a925abdc8083149348a19f6461cb07837b9d2ac935423278b3
+A12 장거리 OD와 실제 버스 노선 순번 검증,정적 버스망의 최소 환승 수 전수 선별,data/raw/bus_routes_seoul_20260902.xlsx,34·35,3251120,b54816e9b7e77bcf49dd7562b993db06a093daa666351f115ea4d1dd0dd8b1df
+A13 서울 버스·철도 접근 공백 후보,427개 행정동 중심점의 버스·철도 직선거리 보조 선별,notebooks/37_seoul_bus_stop_desert_screen.py,37,4946,a154d08f5a29a65009c727c51b325d6da34ee527ee005d9a51b24dcda31a5be8
+A13 서울 버스·철도 접근 공백 후보,427개 행정동 중심점의 버스·철도 직선거리 보조 선별,docs/2026-10-19-seoul-transit-access-gap-screen.md,37,4838,a736c1e91df63cc7dd776ee7a19b15a645048109b4dfd244164332d0778bbce7
+A13 서울 버스·철도 접근 공백 후보,427개 행정동 중심점의 버스·철도 직선거리 보조 선별,outputs/tables/non_drt_policy_comparison/seoul_dong_bus_stop_sparse_screen.csv,37,123456,ca219cbee6f4616c29b4db92c22716a30b798127bb0a4a495ad81adff2afaf52
+A13 서울 버스·철도 접근 공백 후보,427개 행정동 중심점의 버스·철도 직선거리 보조 선별,outputs/tables/non_drt_policy_comparison/seoul_dong_bus_stop_sparse_summary.csv,37,296,cc2685f6b72159eabfe3646ec2be1af39f875430c11d38809d3fed535d47e80e
+A13 서울 버스·철도 접근 공백 후보,427개 행정동 중심점의 버스·철도 직선거리 보조 선별,data/raw/subway_station_coords_derived_20260630.csv,37,49710,f7d82855128e8f6aaa9f79b335ac95b823030467d496e0cfe028995936c8e181
+A14 AI 수요예측·공동배차 최적화 설계,운영 설계안·효과 미실증,docs/2026-10-19-ai-dispatch-optimization-design.md,25·후속 실증,3544,87898a9ca4a99f784c55b66d876404a024d06f970b9630ed24cbc33024aad72e
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,notebooks/26_shared_destination_screen.py,26·27·28·29,3549,0b43c39735c613047a884ec78f955569ed8f5df8f0f7dd22b8ea4358bee4107c
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,notebooks/27_open_pooling_verification.py,26·27·28·29,10081,51dce18fadf96deb78a9ce49e2ab4c3d7ee39675c03de8c1e52995b7b90cbf67
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,notebooks/28_open_pooling_independent_check.py,26·27·28·29,2026,6f449e41d6e0b1629acd954b687e67cf88b573b5f3690e5218c95bc7da356240
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,notebooks/29_build_open_pooling_report.py,26·27·28·29,14826,6134d4b29d8b314228a3a1565c958f4303d49bd96ec57e78889fa6e2957c56f0
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,docs/2026-10-19-open-pooling-verification.md,26·27·28·29,10634,2a9b4816ba84252a0f6db6ea29ae1af7ac74314bafa394b98967070a754398ee
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/tables/shared_destination_screen/coarse_cooccurrence_NOT_FEASIBLE_POOLING.csv,26·27·28·29,802,61b1ecc6ae9e21f79294dbd40f923d3f270b4019eabb77ddcb6c0e580d03754a
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/tables/shared_destination_screen/scope.json,26·27·28·29,565,c0a0f5ed52f7faeb78e925d681228800f6c82a507bbfe7799db5fdad09e836cb
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/tables/open_pooling_verification/service_cooccurrence.csv,26·27·28·29,3770,c656c0234b33cb278f2ca6e49e82fe6f29573950c5ccce699f1749d3f5b1cf0a
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/tables/open_pooling_verification/general_population_top10_OD_NOT_DRT_DEMAND.csv,26·27·28·29,1613,a974bd58e4c46f450bc7c347f14f39c02f62e4d5bf5e109044b2c89df3e1f289
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/tables/open_pooling_verification/general_population_OD_INPUT_ALL_ELIGIBLE.csv,26·27·28·29,2475170,44d00da13043f245cc3ec467ae2049c931025d721a72927599e5f16e73235054
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/tables/open_pooling_verification/conditional_unit_cost.csv,26·27·28·29,2009,2fe9a5215a99fef0c7e7a1922f8adecf3c0dff27cb7a5c9a66d44a09816e8855
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/tables/open_pooling_verification/cost_thresholds.json,26·27·28·29,310,fe21b2e15b889127e83983bed53553e537c9fc2e2de43b53a420f717ac5a902e
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/tables/open_pooling_verification/vehicle_km_sensitivity_NOT_CONGESTION_IMPACT.csv,26·27·28·29,40747,3baadb2eb893849e5a3a0870bcca3a3685400f4175d9fa0503ea5b9e80b90851
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/tables/open_pooling_verification/verification_scope.json,26·27·28·29,1565,fa187861b50a18927ad4cd40255799d78b34282d82080d56065f85e9a9cfbf4e
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/tables/open_pooling_verification/independent_check.json,26·27·28·29,288,98683beeb391136be8e7a5ad40827a1cf5dc7b1ec1a2482b41bb40cf6a7f3937
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,outputs/reports/망젤이네_일반이용형_DRT_검증.pdf,26·27·28·29,122384,f73e13b1ab461235df9bf70a28a6f251bfdb5cb517d435c3bd4dd88fd6ba4aa4
+A10 일반 이용형 공동승차 검증,관측·조건부 계산·정책효과 미입증,data/raw/drt_cost_evidence/uk_rmf_phase1_evaluation_2025.pdf,26·27·28·29,3591141,05aaea9bdb980e81333d7a0ef52cbf1f9b2cc1ea5fb6f3ac8f4167b9e210e0f9
+A8 재현 코드와 검사,실행 코드·검사,notebooks/18_build_contest_submission.py,18·21·23,10579,d8aaaf7a9681e751a55e8ca12fc64558d1611863e332aba043f18fe51cf11c9e
+A8 재현 코드와 검사,실행 코드·검사,notebooks/19_carbon_feasibility_audit.py,18·21·23,7611,20b016d0f5652300f1af56388e76a924ce12a1db82e5516d1b958d8aa0d3505c
+A8 재현 코드와 검사,실행 코드·검사,notebooks/20_carbon_substitution_break_even.py,18·21·23,4340,6d94b2cfffa3a8852488dc300701ca51ff32d0b05a92b128510c3b1febd7653a
+A8 재현 코드와 검사,실행 코드·검사,notebooks/21_carbon_measurement.py,18·21·23,6045,3d89e83cff3c27928d960f167fd98d5584378aca1cf7481027d2599767b88923
+A8 재현 코드와 검사,실행 코드·검사,notebooks/22_treatment_robustness.py,18·21·23,5102,240aa9713696bcc27d7919577f9bbf8ebfd8a3669918c60a9fb855c1638b6dc1
+A8 재현 코드와 검사,실행 코드·검사,notebooks/23_build_appendix.py,18·21·23,53353,baa2790e09594e5b05be4e03c4723574bbdbc23b34e8b78ca0d8ec6b660f5d15
+A8 재현 코드와 검사,실행 코드·검사,notebooks/24_policy_environment_verification.py,18·21·23,5640,68b46c2cc7fde6dc009c01214b46294f6b3e502c2f08dbcc8cc76e7c96ab588a
+A8 재현 코드와 검사,실행 코드·검사,tests/test_carbon_measurement.py,18·21·23,3311,d423456fdda1bd31f533a7ed2e8571a0814309b9ad3473e8173c49a9f6312f9a

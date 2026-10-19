@@ -1,0 +1,16 @@
+{
+  "inputs": [
+    "outputs/tables/public_service_necessity/treatment_hour_diagnostic.csv",
+    "outputs/tables/public_service_necessity/purpose_burden_annual.csv"
+  ],
+  "upstream_raw_analysis": "notebooks/12_public_service_necessity.py",
+  "time_axis": "Scheduled timestamp hour, not appointment arrival hour; 0–1 minute scheduled-minus-request cohort",
+  "bands": "Descriptive operational bands, not optimized intervention hours; every hour assigned exactly once",
+  "limits": [
+    "No pooled quantiles from subgroup quantiles",
+    "Record-weighted means only",
+    "No repeated-rider identification",
+    "No causal inference about supply or DRT effects",
+    "No assumption of daily or same-destination pooling"
+  ]
+}
