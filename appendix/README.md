@@ -2,7 +2,7 @@
 
 제출 기준은 [본문 PDF](../outputs/reports/망젤이네_분석보고서.pdf)입니다. 부록은 별도 열람 자료이며 본문과 합친 제출 파일이 아닙니다.
 
-- [분석 부록 PDF](망젤이네_분석부록.pdf): A1~A14, 15쪽
+- [분석 부록 PDF](research_appendix.pdf): A1~A14, 15쪽
 - [편집 가능한 부록 원문](분석부록.md)
 - [파일별 역할·실행 코드·SHA-256 인덱스](evidence_index.csv)
 
